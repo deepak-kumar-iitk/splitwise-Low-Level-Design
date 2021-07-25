@@ -2,7 +2,7 @@ Steps to run the Project
 1) Open the cloned project in Eclipse
 2) Run Splitwise.java
 --> You will see below output in terminal
-  ### Please select an option ***
+  ### Please select an option
   1 --> addGroupExpense
   2 --> showUserBalanceDetails
    
